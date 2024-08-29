@@ -120,4 +120,6 @@ Use Simple Language: Avoid jargon and technical terms unless your audience is fa
 
 Incorporate a Real-World Example: Provide a brief example or scenario that illustrates how the product can be used, making its purpose and benefits more tangible.
 
-Keep It Brief: Limit the introduction to a few sentences or a short paragraph. Aim for clarity and brevity to quickly capture the reader’s attention
+Keep It Brief: Limit the introduction to a few sentences or a short paragraph. Aim for clarity and brevity to quickly capture the reader’s attention.
+
+
